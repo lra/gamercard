@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteOptions MaxRedirects=1
+RewriteRule ^card.* card.php

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+<ModulePrefs
+	title="Xbox Live Gamercard"
+	title_url="http://www.glop.org/gamercard/"
+	description="Displays an Xbox Live Gamercard"
+	author="Laurent Raufaste"
+	author_email="analogue@glop.org"
+	author_location="Toulouse, France"
+	screenshot="http://www.glop.org/gamercard/card/Analogue.png"
+	height="204"
+	scaling="false" />
+<UserPref name="gamertag" 
+		display_name="Gamertag"
+		datatype="string"
+		default_value="Analogue" />
+<Content type="url" href="http://www.glop.org/gamercard/google-ig-gamercard.php" />
+</Module>
